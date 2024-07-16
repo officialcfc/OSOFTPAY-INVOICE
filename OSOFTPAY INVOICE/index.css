@@ -1,0 +1,112 @@
+body {
+    width: 98%;
+    font-family: sans-serif;
+    background-color: rgba(245, 222, 179, 0.13);
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.oslogo-col img {
+    width: 100%;
+    padding-top: 10px;
+    margin-left: 20px;
+}
+
+.oslogo-col h1 {
+    font-size: 25px;
+    color: rgba(209, 73, 23, 0.788);
+    font-family: sans-serif;
+}
+
+.oslogo-col, .address-col {
+    flex-basis: 15%;
+    padding-top: 5px;
+    
+}
+
+.name-col {
+    flex-basis: 19%;
+    
+}
+
+.location h2 {
+    margin-left: 30px;
+    font-size: 18px;
+    color: rgba(209, 73, 23, 0.788);
+}
+.name-col, .address-col {
+    margin-left: 30px;
+    text-align: left;
+}
+
+.address-col {
+    color: rgba(209, 73, 23, 0.788);
+}
+
+table {
+    padding-top: 20px;
+    margin-left: 30px;
+    width: 100%;
+    text-align: left;
+}
+
+.table-2-col {
+    width: 35%;
+}
+.total {
+    font-size: 20px;
+    background-color: rgba(197, 55, 3, 0.651);
+}
+p{
+    margin-left: 30px;
+    font-size: 18px;
+}
+
+.table-2 h5 {
+        margin-left: 30px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-size: 20px;
+        background-color: rgba(245, 222, 179, 0.432);
+}
+
+.table-2 p {
+    font-size: 18px;
+}
+td {
+    padding-top: 15px;
+}
+
+th {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+thead {
+    background-color: rgba(197, 55, 3, 0.651);;
+}
+
+.sign, .signword{
+    padding: 0px;
+    margin: 0px;
+}
+
+.sign {
+    color: rgba(209, 73, 23, 0.788);
+    margin-right: 27px;
+}
+.signword {
+    text-align: center;
+}
+
+.signature-col p {
+    padding-top: 10px;
+}
+
+
+
+
+
